@@ -1,0 +1,41 @@
+<resources>
+
+    <!--应用名称-->
+    <string name="app_name">TCP connection</string>
+
+    <!--欢迎界面-->
+    
+    <!--建立TCP连接界面-->
+    <string name="app_title">TCP通信</string>
+    <string name="input_ip">IP地址：</string>
+    <string name="ip_value">192.168.152.223</string><!--192.168.152.223-->
+    <string name="input_hint">Please input IP address</string>
+    <string name="port">端口号：</string>
+    <string name="port_value">9527</string><!--9527-->
+    <string name="connect">连接</string>
+    <string name="setting">设置</string>
+    <string name="send">发送</string>
+    <string name="enter">进入</string>
+    <string name="clear">清空</string>
+    <string name="send_hint">Send something</string>
+
+    <!--退出-->
+    <string name="exit">退出程序</string>
+
+    <!--选择界面-->
+    <string name="options_title">选择界面</string>
+    <string name="page_attendance">考勤界面</string>
+    <string name="page_open_door">开门界面</string>
+
+    <!--考勤界面-->
+    <string name="staff_ID">员工ID</string>
+    <string name="input_ID_hint">请输入您的ID号：</string>
+    <string name="confirm">确定</string>
+    <string name="welcome_staff">欢迎来上班</string>
+
+    <!--开门界面-->
+    <string name="input_password_hint">请输入开门密码：</string>
+    <string name="input_psw">Please input psw</string>
+
+
+</resources>
